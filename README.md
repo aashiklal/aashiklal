@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning advanced cloud technologies and containerization, enhancing my skills in AWS, Azure, and Docker/Kubernetes.<br>🎯 Goals: To contribute to innovative software projects that leverage my skills in cloud computing and web development, and to grow into a leadership role within the tech industry.<br>🎲 Fun fact: I helped enhance ad readiness for OTT platforms like MTV, VH1, and Paramount during my time at Cognizant Technology Solutions, which means I might have indirectly played a part in streaming your favorite shows!</p>
+<p align="left">✨ Resolving bugs since 2014<br>📚 I'm currently learning advanced cloud technologies and containerization, enhancing my skills in AWS, Azure, and Docker/Kubernetes.<br>🎯 Goals: To contribute to innovative software projects that leverage my skills in cloud computing and web development, and to grow into a leadership role within the tech industry.<br>🎲 Fun fact: I helped enhance ad readiness for OTT platforms like MTV, VH1, and Paramount during my time at Cognizant Technology Solutions, which means I might have indirectly played a part in streaming your favorite shows!</p>
 
 ###
 
